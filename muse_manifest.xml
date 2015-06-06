@@ -1,0 +1,41 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433621862251">
+  <folder name="css">
+    <file name="site_global.css" crc="4246437092"/>
+    <file name="index.css" crc="4060977702" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:tablet>index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:tablet>index"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="red0001.png" crc="4187877432" ref="phone>index:tablet>index"/>
+    <file name="1.jpg" crc="4030350495" ref="phone>index:tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index"/>
+    <file name="2.jpg" crc="4105648063" ref="phone>index:tablet>index"/>
+    <file name="3.jpg" crc="30694642" ref="phone>index:tablet>index"/>
+    <file name="3.png" crc="198940607" ref="phone>index:tablet>index"/>
+    <file name="4.jpg" crc="4079476148" ref="phone>index:tablet>index"/>
+    <file name="5.jpg" crc="4171469814" ref="phone>index:tablet>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index"/>
+    <file name="worp.swf" crc="4170286096" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="398497894" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="144075239" mt="1433621346786" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="478419274" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="143589529" mt="1433621770504" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3918154336" mt="1433621324807" redirect="true"/>
+</manifest>
